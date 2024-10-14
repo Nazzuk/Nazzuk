@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nazzuk Yes I'm a Furry
 - 👀 I’m interested in Music, Games, VR Technology, Art
-- 🌱 I’m currently learning Python (I guess ^^")
+- 🌱 I’m currently learning Python, C++, Java
 - |-/
 
 <!---
